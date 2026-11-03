@@ -237,4 +237,4 @@ This repository serves as the official landing page for IP-TV Player. The softwa
 **Get the most recent version of IP-TV Player today!**
 
 ---
-**Last updated:** 2026-11-03 07:34:54 UTC
+**Last updated:** 2026-11-03 15:50:10 UTC
